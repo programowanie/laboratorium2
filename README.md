@@ -20,7 +20,7 @@ Wynikiem pracy dzisiejszego programu ma być generator kwadratów, zawierającyc
 ## Przykładowy wynik pracy programu
 Poprawnym wynikiem pracy programu, po wykonaniu pliku `Makefile`, jest poniższy rezultat. Utworzone kwadraty mogą być lustrzanymi odbiciami zaprezentowanych. Dla rozwiązania na ocenę dostateczną, wartości mogą być inne.
 
-```python
+```bash
 ./lab1 1 666
 m
 ./lab1 2 646
